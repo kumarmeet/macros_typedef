@@ -28,6 +28,7 @@
 
 typedef int *ptr;
 #define ch char *
+#define rep(x, n) for(int x = 0; i < n; x++)
 
 using namespace std;
 
